@@ -1,0 +1,5 @@
+# API runtime only. Upstream model dependencies are isolated and operator-owned.
+fastapi>=0.115.12,<1
+starlette>=0.47.2,<2
+uvicorn>=0.34.3,<1
+python-multipart>=0.0.20,<1

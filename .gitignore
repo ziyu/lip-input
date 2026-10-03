@@ -1,0 +1,26 @@
+# Local build / IDE files
+.gradle/
+**/build/
+local.properties
+.idea/
+*.iml
+__pycache__/
+.pytest_cache/
+.venv/
+*.py[cod]
+# Personal recordings, model files, credentials and keys
+*.mp4
+*.mov
+*.wav
+*.pth
+*.pt
+*.ckpt
+*.onnx
+*.safetensors
+.env
+.env.*
+!.env.example
+*.jks
+*.keystore
+*.pem
+*.key
